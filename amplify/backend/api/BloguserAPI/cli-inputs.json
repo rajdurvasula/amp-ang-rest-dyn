@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "BloguserAPI",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/ec2-user/project/amp-ang2/amplify/backend/api/BloguserAPI/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-06-08T11:41:21.759Z",
+      "keyDescription": "demo"
+    }
+  }
+}

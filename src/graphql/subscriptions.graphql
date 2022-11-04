@@ -1,0 +1,34 @@
+# this is an auto generated file. This will be overwritten
+subscription OnCreateBloguser {
+  onCreateBloguser {
+    id
+    fname
+    lname
+    email
+    handle
+    createdAt
+    updatedAt
+  }
+}
+subscription OnUpdateBloguser {
+  onUpdateBloguser {
+    id
+    fname
+    lname
+    email
+    handle
+    createdAt
+    updatedAt
+  }
+}
+subscription OnDeleteBloguser {
+  onDeleteBloguser {
+    id
+    fname
+    lname
+    email
+    handle
+    createdAt
+    updatedAt
+  }
+}
